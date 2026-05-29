@@ -3,7 +3,7 @@ This was one of my first real projects from years ago. I made it in the final ha
 # 2dev.js Version 2
 2dev.js is a 2D game development library I created for HTML5 Canvas. I originally started developing this library so I could create my games quickly without having to redo any of the math for collision logic. But I kept adding new functions to the library and decided to publish it. This library is very simple and is intended to make game development on an HTML5 Canvas as easy as possible.
 <br/>
-# Tutorial (unfinished)
+# How it works (unfinished)
 ### NOTE: The origin of any object's position and rotation is always the center.
 ### Events
 ```javascript
